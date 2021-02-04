@@ -6,6 +6,11 @@ import json
 # print(kk,type(kk))
 
 
-n = '["222","3333"]'
-k=json.loads(n)
-print(k)
+# n = '["222","3333"]'
+# k=json.loads(n)
+# print(k)
+
+
+#带下标遍历
+for i in enumerate(num):
+    pass
